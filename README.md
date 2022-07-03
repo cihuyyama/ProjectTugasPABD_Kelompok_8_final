@@ -16,7 +16,7 @@ try to uninstalling Microsoft.ReportingServices.ReportViewerControl.WebForms so 
 
 uninstalling the nuget
 
-### 3. 'Clean / Build Project' on 'Build' Menu bar
+### 3. 'Clean / ReBuild Project' on 'Build' Menu bar
 
 ### 4. `Install-Package Microsoft.ReportingServices.ReportViewerControl.WebForms -Version 150.1484.0`
 
@@ -26,6 +26,6 @@ try to installing the Microsoft.ReportingServices.ReportViewerControl.WebForms a
 
 try to installing the package again, it might be had installed, just to make sure it was installed.
 
-### 6. 'Clean / Build Project' on 'Build' Menu bar
+### 6. 'Clean / ReBuild Project' on 'Build' Menu bar
 
 regenerating stuff that we need before
