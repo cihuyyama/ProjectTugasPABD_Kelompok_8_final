@@ -8,21 +8,21 @@ First go to package manager on 'Tools > NuGet Package Manager > Package Manager 
 
 enter these command
 
-### 1. 'Uninstall-Package Microsoft.ReportingServices.ReportViewerControl.WebForms -Version 150.1484.0'
+### 1. `Uninstall-Package Microsoft.ReportingServices.ReportViewerControl.WebForms -Version 150.1484.0`
 
 try to uninstalling Microsoft.ReportingServices.ReportViewerControl.WebForms so we now can uninstal the nugget package
 
-### 2. 'Uninnstall-Package Microsoft.SqlServer.Types -Version 14.0.314.76'
+### 2. `Uninnstall-Package Microsoft.SqlServer.Types -Version 14.0.314.76`
 
 uninstalling the nuget
 
 ### 3. 'Clean / Build Project' on 'Build' Menu bar
 
-### 4. 'Install-Package Microsoft.ReportingServices.ReportViewerControl.WebForms -Version 150.1484.0'
+### 4. `Install-Package Microsoft.ReportingServices.ReportViewerControl.WebForms -Version 150.1484.0`
 
 try to installing the Microsoft.ReportingServices.ReportViewerControl.WebForms again
 
-### 5. 'Install-Package Microsoft.SqlServer.Types -Version 14.0.314.76'
+### 5. `Install-Package Microsoft.SqlServer.Types -Version 14.0.314.76`
 
 try to installing the package again, it might be had installed, just to make sure it was installed.
 
